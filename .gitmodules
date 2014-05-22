@@ -1,0 +1,6 @@
+[submodule "LIBRARY"]
+	path = LIBRARY
+    url = https://github.com/brownman/LIBRARY.git
+[submodule "magnify_the_small_2"]
+	path = magnify_the_small_2
+	url = https://github.com/brownman/magnify_the_small_2.git
