@@ -10,3 +10,6 @@
 [submodule "INIT"]
 	path = INIT
 	url = https://github.com/brownman/INIT.git
+[submodule "mindmap_aday"]
+	path = mindmap_aday
+	url = https://github.com/brownman/mindmap_aday.git
