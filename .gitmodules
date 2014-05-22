@@ -4,3 +4,6 @@
 [submodule "magnify_the_small_2"]
 	path = magnify_the_small_2
 	url = https://github.com/brownman/magnify_the_small_2.git
+[submodule "GMAIL_GROUP"]
+	path = GMAIL_GROUP
+	url = https://github.com/brownman/GMAIL_GROUP.git
