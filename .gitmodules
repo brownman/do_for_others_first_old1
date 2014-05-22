@@ -7,3 +7,6 @@
 [submodule "GMAIL_GROUP"]
 	path = GMAIL_GROUP
 	url = https://github.com/brownman/GMAIL_GROUP.git
+[submodule "INIT"]
+	path = INIT
+	url = https://github.com/brownman/INIT.git
